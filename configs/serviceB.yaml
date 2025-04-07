@@ -1,0 +1,4 @@
+service_name: "beta-service"
+environment: "staging"
+version: "1.2"
+maintainer: "bob@example.com"

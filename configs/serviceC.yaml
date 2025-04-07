@@ -1,0 +1,4 @@
+service_name: "gamma-service"
+environment: "staging"
+version: "2.0"
+maintainer: "charlie@example.com"

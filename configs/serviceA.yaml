@@ -1,0 +1,4 @@
+service_name: "alpha-service"
+environment: "production"
+version: "1.2"
+maintainer: "alice@example.com"
