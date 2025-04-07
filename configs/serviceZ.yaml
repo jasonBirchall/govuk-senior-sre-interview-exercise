@@ -1,0 +1,4 @@
+# serviceMissing.yaml
+service_name: "missing-service"
+# Notice there's no environment or version here
+maintainer: "someone@example.com"
