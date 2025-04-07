@@ -22,7 +22,6 @@ If the `configs/` folder has these values:
 You might output:
 
 ```bash
-```
 Environments found:
 - production: 1
 - staging: 2
@@ -31,8 +30,6 @@ Versions found:
 - 1.2: 2
 - 2.0: 1
 ```
-```
-
 
 ## Reliability & Testing
 
